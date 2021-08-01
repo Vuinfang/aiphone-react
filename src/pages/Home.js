@@ -9,13 +9,14 @@ import '../assets/css/style.css';
 
 const Home = (props) => {
     return (
-        <div>
+      <div>
             <Header/>
             <HomeSwiper/>
             <SecondBox/>
             <ThirdBox/>
             <Footer/>
-    </div>
+      </div>
+
     );
 }
 
